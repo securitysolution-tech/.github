@@ -1,0 +1,5 @@
+{
+  "name": "Security scan",
+  "description": "Audits the repository's own workflows with zizmor and scans dependencies with OSV-Scanner, weekly and on every change, uploading findings to code scanning. Code scanning needs a public repository or GitHub Advanced Security.",
+  "categories": ["Security"]
+}

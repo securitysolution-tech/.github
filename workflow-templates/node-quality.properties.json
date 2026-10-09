@@ -1,0 +1,6 @@
+{
+  "name": "Node quality gate",
+  "description": "Format check, dependency audit, type check, build and tests on every push and pull request, with pinned actions and least-privilege permissions. The gate every SecuritySolution.tech Node repository runs. Expects an .nvmrc.",
+  "categories": ["JavaScript", "TypeScript"],
+  "filePatterns": ["package.json"]
+}
